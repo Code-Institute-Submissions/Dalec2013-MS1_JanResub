@@ -39,7 +39,7 @@ This is a blog to give ideas on where to travel, from past experinces and resear
 * HTML 
 * CSS
 #### Frameworks, Libarys and Programs Used
-* Bootstrap 4.1 was used for the navigation and framework of the site.
+* Bootstrap 4.1 was used for framework of the site.
 * GoogleFonts was used for my fonts (Texturina, Playfair Display)
 * Fontawsome was used for my icons on all pages.
 * git/gihub was used to code th site and push my code to the github to store my projects.
@@ -63,4 +63,4 @@ Done with w3c validation.
 * Bali: https://media.timeout.com/images/105240189/image.jpg
 * Mexico: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1086671738%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3899%26cropY1%3D360%26cropY2%3D2554
 * Barbados: https://cdn.britannica.com/89/94489-050-4920E18B/Palm-trees-ocean-Barbados.jpg
-* World map background: https://cdn.mapsinternational.co.uk/pub/media/catalog/product/cache/9408c2af9b2aa1f0e92b23ce5de2be46/w/o/world-wall-map-physical-without-flags_wm00912.jpg
+* Hand Heart: https://content.tripster.com/travelguide/wp-content/uploads/2014/05/Love-Beach-ThinkstockPhotos-480177829.jpg

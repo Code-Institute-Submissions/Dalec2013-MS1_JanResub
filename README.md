@@ -39,7 +39,7 @@ This is a blog to give ideas on where to travel, from past experinces and resear
 * HTML 
 * CSS
 #### Frameworks, Libarys and Programs Used
-* Bootstrap 4.1 was used for framework of the site.
+* Bootstrap 4.1 was used for the navbar and the framework of the site.
 * GoogleFonts was used for my fonts (Texturina, Playfair Display)
 * Fontawsome was used for my icons on all pages.
 * git/gihub was used to code th site and push my code to the github to store my projects.

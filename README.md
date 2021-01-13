@@ -55,14 +55,49 @@ The w3c mark up validator was used to validate all html pages. The w3c CSS valid
     3. No warnings or errors are visible on my contact.html file.
     4. On my CSS file the was ann error regarding the import file "Imported style sheets are not checked in direct input and file upload modes".
 
-### More T
+### Testing user stories against user experience (UX)
 
 * First time visitor goals. 
-    1. As a first time visitor, 
+    * As a first time visitor, i want to find the site easy to navigate with relivent information, but not to be over cumbered with information.
+        * when arriving on the site users are greeted with an easy to use navigation bar, a hero image and a small amout of text explaining what the site's about.
+        * From the home page its very clear what the user is to experience through the site.
+        * The user has the option's to head over to the locations and view some places and learn a little more about said places, or sign up to my newsletter.
+
+* Returning visitor goals.
+    * As a returning visitor , I will be intrested in learning a little bit more about the places I didn't read about on my firt time to the site.
+    * When returning to the site I found the site easy to navigate and fresh with the choice to sign up to a newsletter, a good idea  to keep me upto date with any new travel advice.
+
+* Frequent user goals.
+    * As a frequent user i would expect the site to be updated with new locations and more information for me to read up on to get ideas for holiday ideas.
+    * I have signed p to the newsletter and enjoy seeing new places and even  enjoy readin about some of the places iv already read about as im intersted in travel.
+
+#### Further Testing
+     The site has been test on a variety of devices, such as desktop, Ipad pro, Iphone6/7/8/X after the problem i had with my button not working.
+     I decided to go with just a smaller navigation bar on mobile devices. I've tested the site on Google Chrome, Microsoft Edge and firefox.
+     All seems to work well with the minor exception that on an Ipad Pro the footer seeems to get a little bit misshaped with it dropping my qoute into two lines,
+     and moving one of my social links below the others.
 
 
 
-### Images sourced From
+#### Known Bugs
+    On some mobile devices my navigation isn't quite centered the text seems to be floating to the right.
+    On the Ipad Pro the footer is misshapped, with it dropping a social link below the others and putting my quote into two lines.
+
+## Deployment 
+
+### Github pages
+
+The prject was deployed to git hub using these steps...
+
+1. Login to github and locate the [MS1 repository](https://github.com/Dalec2013?tab=repositories).
+2. At the top of the repository locate the settings tab.
+3. Scroll down the page till you find the "GitHub Pages" section.
+4. Under source cliick the dropdown box labeled none and select master branch.
+5. The page will refresh.
+6. Scroll back down the page to get to the published link (https://dalec2013.github.io/MS1/.)
+
+
+## Images sourced From
 
 * World Map: https://www.stanfords.co.uk/content/images/thumbs/022/0228916_coverimage_9786000531881.jpeg
 * Plane: https://singularityhub.com/wp-content/uploads/2018/12/airplane-flying-above-clouds_shutterstock_553131187-1068x601.jpg

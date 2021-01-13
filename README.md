@@ -45,11 +45,22 @@ This is a blog to give ideas on where to travel, from past experinces and resear
 * git/gihub was used to code th site and push my code to the github to store my projects.
 * balsmiq was used for my wireframes which are linked below.
 
-### Code Validation.
-Done with w3c validation.
+## Testing
+The w3c mark up validator was used to validate all html pages. The w3c CSS validator waas used to validate my css file.
 
 * html: https://validator.w3.org/
 * css: https://jigsaw.w3.org/css-validator/
+    1. On my index.html file there are warning for not using <h2>-<h6> on line's 34 and 46.
+    2. No warnings or errors are visible on my location.html file.
+    3. No warnings or errors are visible on my contact.html file.
+    4. On my CSS file the was ann error regarding the import file "Imported style sheets are not checked in direct input and file upload modes".
+
+### More T
+
+* First time visitor goals. 
+    1. As a first time visitor, 
+
+
 
 ### Images sourced From
 

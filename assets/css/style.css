@@ -148,6 +148,7 @@
 /*---------------------------Media Query*/
 
 @media(max-width:800px){
+   
     .travel{
         display: none;
     }
@@ -178,7 +179,23 @@
        margin-bottom: 0px;
    }
    .title{
+       font-size: 30px;
+       padding-left: 25%;
+       padding-right: 25%;
+       padding-bottom: 0;
+   }
+   #menu li{
+       padding-left: 25%;
+       padding-right: 25%;
+   }
+   #menu a{
        font-size: 20px;
+       float: center;
+       padding-right: 15%;
+       margin-top: 0;
+       padding-top: 0;
+       padding-bottom: 0;
+       padding-top: 0;
    }
 
 }

@@ -1,5 +1,13 @@
 # Travel wise
+Live page link. (https://dalec2013.github.io/MS1/)
+
 This is a blog to give ideas on where to travel, from past experinces and research done online.
+My site is responsive on all devices.
+* Results.
+<img src="assets/images/desktop.png">
+<img src="assets/images/ipad.png">
+<img src="assets/images/mobile.png">
+
 
 ## User Experince (UX)
 
@@ -46,14 +54,10 @@ This is a blog to give ideas on where to travel, from past experinces and resear
 * balsmiq was used for my wireframes which are linked below.
 
 ## Testing
-The w3c mark up validator was used to validate all html pages. The w3c CSS validator waas used to validate my css file.
+The w3c mark up validator and The w3c CSS validator was used to validate all pages of the site to make sure there was no syntax errors.
+* html <img src= "assets/images/index.html.png">,<img src="assets/images/location.html.png">,<img src="assets/images/contact.html.png">.
+* CSS <img src = "assets/images/CSS.png">
 
-* html: https://validator.w3.org/
-* css: https://jigsaw.w3.org/css-validator/
-    1. On my index.html file there are warning for not using h2-h6 on line's 34 and 46.
-    2. No warnings or errors are visible on my location.html file.
-    3. No warnings or errors are visible on my contact.html file.
-    4. On my CSS file the was ann error regarding the import file "Imported style sheets are not checked in direct input and file upload modes".
 
 ### Testing user stories against user experience (UX)
 
@@ -72,16 +76,16 @@ The w3c mark up validator was used to validate all html pages. The w3c CSS valid
     * I have signed p to the newsletter and enjoy seeing new places and even  enjoy readin about some of the places iv already read about as im intersted in travel.
 
 #### Further Testing
-     The site has been test on a variety of devices, such as desktop, Ipad pro, Iphone6/7/8/X after the problem i had with my button not working.
-     I decided to go with just a smaller navigation bar on mobile devices. I've tested the site on Google Chrome, Microsoft Edge and firefox.
-     All seems to work well with the minor exception that on an Ipad Pro the footer seeems to get a little bit misshaped with it dropping my qoute into two lines,
-     and moving one of my social links below the others.
+The site has been test on a variety of devices, such as desktop, Ipad pro, Iphone6/7/8/X after the problem i had with my button not working.
+I decided to go with just a smaller navigation bar on mobile devices. I've tested the site on Google Chrome, Microsoft Edge and firefox.
+All seems to work well with the minor exception that on an Ipad Pro the footer seeems to get a little bit misshaped with it dropping my qoute into two lines,
+and moving one of my social links below the others.
 
 
 
 #### Known Bugs
-    On some mobile devices my navigation isn't quite centered the text seems to be floating to the right.
-    On the Ipad Pro the footer is misshapped, with it dropping a social link below the others and putting my quote into two lines.
+On some mobile devices my navigation isn't quite centered the text seems to be floating to the right.
+On the Ipad Pro the footer is misshapped, with it dropping a social link below the others and putting my quote into two lines.
 
 ## Deployment 
 

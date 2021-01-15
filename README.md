@@ -5,8 +5,6 @@ This is a blog to give ideas on where to travel, from past experinces and resear
 My site is responsive on all devices.
 * Results.
 <img src="assets/images/desktop.png">
-<img src="assets/images/ipad.png">
-<img src="assets/images/mobile.png">
 
 
 ## User Experince (UX)
